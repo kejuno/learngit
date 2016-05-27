@@ -17,3 +17,4 @@ keyubing
 
 create branch
 
+Creating a new branch is quick & simple.
